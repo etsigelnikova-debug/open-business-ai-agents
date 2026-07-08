@@ -1,4 +1,4 @@
-# Open Business AI Agents
+# Open Business AI Agents 
 
 Open-source AI agents for marketing, SEO, websites and small business automation.
 
